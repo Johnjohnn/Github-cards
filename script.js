@@ -74,7 +74,7 @@ function addReposToCard(repos) {
             reposEl.appendChild(repoEl)
         })
 }
-
+// Search Bar
 form.addEventListener('submit', (e) => {
     e.preventDefault()
 
